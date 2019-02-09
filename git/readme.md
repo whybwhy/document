@@ -8,6 +8,7 @@
 * [git 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [git 커밋 메세지 가이드](https://meetup.toast.com/posts/106)
 
+## 사용했던 명령어
 <pre>
     git add .
     git commit -m ''
@@ -31,6 +32,7 @@
     출처: http://handam.tistory.com/127
 </pre>
 
+## 물음표
 > 가독성이 좋은 diff (기본 diff는 개인적으로 가독성이 안좋음. winmerge 만한게 있을까.) 
   * webstrom 활용!
   * [git config](https://blog.outsider.ne.kr/1011) 

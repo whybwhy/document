@@ -1,6 +1,4 @@
-*****
-
-***** 읽어볼 것
+## 읽어볼 것
 * [git 원리](https://sjh836.tistory.com/37?category=695128)
 * [add, commit, push 취소](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
 * [핸드북](https://rogerdudler.github.io/git-guide/index.ko.html)
@@ -10,24 +8,28 @@
 * [git 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [git 커밋 메세지 가이드](https://meetup.toast.com/posts/106)
 
-<code>
+<pre>
     git add .
     git commit -m ''
     git push origin
-    
+</pre>
+
+<pre>    
     git rm -r --cached .
     
     git reset
     git checkout
     git fetch 
-    
-    git add . //아래와 같은 경고 발생
+</pre>
+
+<pre>    
+    //git add . 후 아래와 같은 경고 발생
     warning: LF will be replaced by CRLF in 파일명
     The file will have its original line endings in your working directory.
-    출처: http://handam.tistory.com/127 
+     
     git config --global core.autocrlf input // 다양한 os 플랫폼에서 협업할 경우
-</code>
-
+    출처: http://handam.tistory.com/127
+</pre>
 
 > 가독성이 좋은 diff (기본 diff는 개인적으로 가독성이 안좋음. winmerge 만한게 있을까.) 
   * webstrom 활용!

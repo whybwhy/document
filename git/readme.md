@@ -15,27 +15,27 @@
     git push origin
 </pre>
 
-<pre>    
+<pre>
     git rm -r --cached .
-    
+
     git reset
     git checkout
-    git fetch 
+    git fetch
 </pre>
 
-<pre>    
+<pre>
     //git add . 후 아래와 같은 경고 발생
     warning: LF will be replaced by CRLF in 파일명
     The file will have its original line endings in your working directory.
-     
+
     git config --global core.autocrlf input // 다양한 os 플랫폼에서 협업할 경우
     출처: http://handam.tistory.com/127
 </pre>
 
 ## 물음표
-> 가독성이 좋은 diff (기본 diff는 개인적으로 가독성이 안좋음. winmerge 만한게 있을까.) 
+> 가독성이 좋은 diff (기본 diff는 개인적으로 가독성이 안좋음. winmerge 만한게 있을까.)
   * webstrom 활용!
-  * [git config](https://blog.outsider.ne.kr/1011) 
+  * [git config](https://blog.outsider.ne.kr/1011)
   * [vimdiff](http://bobcomputer.tistory.com/3)
 
 > fetch vs pull
@@ -49,9 +49,9 @@
 
 > branch 생성 및 활용
 
-> 한 버전의 속한 특정 파일만 revert 가능여부 
+> 한 버전의 속한 특정 파일만 revert 가능여부
 
-## git 
+## git
 나는 git을 사용해왔지만 부끄럽게도 아직 자신이 없다.
 
 지금까지 실무에서 scm으로 기업형 형상관리솔루션, subversion, perforce, git 총 4가지를 경험해왔다. 이 중에 svn을 가장 자유자재로 사용했고 perforce도 branch 만 추가로 이해하고 바로 사용했는데 git 만큼은 진입장벽이 컸다.
@@ -64,8 +64,8 @@
 * 다양한 접근을 지원하는 tools과 나와 맞지 않는 tool을 사용했던 것
 * 경험으로 인한 해결 못한 너무 많은 궁금증
 * 파일의 변경인지 파일 상태의 변경인지 헷갈리는 경우가 많다. 직접 해보기전엔 알수가 없다.
-* 어느 리젼에서 해야하는지 헷갈리는 경우가 많다. 
+* 어느 리젼에서 해야하는지 헷갈리는 경우가 많다.
 
 생활코딩 git 동영상 수업을 통해 개념을 알게되니 나도 잘 할수있겠다는 생각이 들었고 나와 같은 상태를 가진 분이라면 보길 권한다.
 
-기본적으로 [생활코딩 git 수업](https://opentutorials.org/module/3762)을 통해 진행 
+기본적으로 [생활코딩 git 수업](https://opentutorials.org/module/3762)을 통해 진행

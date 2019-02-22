@@ -2,14 +2,14 @@
 * [ryuhangyeong](https://github.com/ryuhangyeong/learn-javascript/tree/master/interview)
 * [@tmmoond8](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 * [yangshun](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/README.md)
-
-##### 구직사이트 
+* [jimkimau](https://medium.com/@jimkimau/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%91-%EA%B8%B0%EC%96%B5%EB%82%98%EB%8A%94-%EC%A7%88%EB%AC%B8%EA%B3%BC-%EB%8B%B5%EB%B3%80%EB%93%A4-712daa9a2dc?fbclid=IwAR04D8YldbIW17o-4rlLWpdPsgvLhb2UJy21xdrDHmHvPGY24viAFMIyo00)
+##### 구직사이트
 * [wanted](https://www.wanted.co.kr/)
   * 이력서 템플릿 하나로 쉬운 지원
   * 이력서 pdf 생성
   * 구직 성공 시 보상금 지급
   * 포인트 적립 후 현금으로 환급
-  * 결과/면접 날짜를 문자/메일로 연락 
+  * 결과/면접 날짜를 문자/메일로 연락
   * 진행이 더딤
 * [peoplenjob](https://www.peoplenjob.com/)
   * 헤드헌터 개인 연락 - 헤드헌터는 고객사 편

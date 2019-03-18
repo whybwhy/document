@@ -13,6 +13,8 @@
     git add .
     git commit -m ''
     git push origin
+    
+    git push -u origin +master // 강제 push
 </pre>
 
 <pre>

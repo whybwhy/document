@@ -10,11 +10,13 @@
 
 ## 사용했던 명령어
 <pre>
+    git init
     git add .
     git commit -m ''
     git push origin
     
     git push -u origin +master // 강제 push
+    
 </pre>
 
 <pre>
@@ -71,3 +73,48 @@
 생활코딩 git 동영상 수업을 통해 개념을 알게되니 나도 잘 할수있겠다는 생각이 들었고 나와 같은 상태를 가진 분이라면 보길 권한다.
 
 기본적으로 [생활코딩 git 수업](https://opentutorials.org/module/3762)을 통해 진행
+
+## 2019.06.18 
+
+ - stage (commit 대상파일) 
+  add .
+ 
+ - 특정 버전으로 checkout == HEAD는 포인트.
+ - HEAD를 다시 master로 바꿔줘야함.
+ - ? 이걸 master 에 올리는 방법은? -> reset!
+ - 삭제하고 싶은 버전의 이전 버전에서 reset. (soft, mixed, hard)
+ - 공유하기 전까지 reset 할 수 있다.
+ - git reflog
+ 
+ 
+ 
+ 
+ - git은 [commit] 이 되어 있다면 어떤 것도 삭제하지 않음!
+ - reset commit id/ version id
+ 
+ 3가지 space
+ - .git 폴더 (repository)
+ - resources  (working directory)
+ - stage area -> 수정할 것중 버전관리 대상. commit해서 repository로 이동할 논리적 area
+ 
+  
+ 
+  
+  ? 
+   * branch - 생성, 관리, 병합
+   * 팀 협업
+   * add -> revert
+     commit -> revert (non version, stage)
+     github -> revert (non version, stage)
+     
+   * complict -> merge
+   
+   
+ ## 2019.06.19
+ - branch : master
+ - remote 
+  
+  
+ 
+
+

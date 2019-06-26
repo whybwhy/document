@@ -1,3 +1,6 @@
+[내부 링크 테스트](https://github.com/whybwhy/paul/blob/master/README.md)
+
+
 ## 읽어볼 것
 * [git 원리](https://sjh836.tistory.com/37?category=695128)
 * [add, commit, push 취소](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
